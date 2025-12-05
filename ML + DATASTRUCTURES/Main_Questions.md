@@ -1,10 +1,4 @@
-Nice, let’s build you a mini **DSA cheat sheet** with **super common interview questions**, each:
 
-* explained like you’re 10 😄
-* broken down **step by step**
-* with **simple code** (Python, but logic is language-independent)
-
-We’ll do 6 classics:
 
 1. Two Sum (array + hashmap)
 2. Maximum Subarray (Kadane’s Algorithm)
@@ -367,15 +361,3 @@ def binary_search(nums, target):
 
 ---
 
-If you want, next I can:
-
-* Turn this into a **GitHub-ready cheat-sheet README**
-* Or give you **practice problems + solutions** topic-wise:
-
-  * Arrays/strings
-  * Linked lists
-  * Stacks/queues
-  * Trees/graphs
-  * DP only (with patterns)
-
-Tell me which topic you want to go deep into first, and I’ll make a focused pack for that.
